@@ -1,0 +1,6 @@
+// 弹性盒子水平垂直居中
+@mixin flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
